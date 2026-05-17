@@ -118,7 +118,7 @@ JWT_SECRET=your_secret_key
 
 ## Author
 
-NANDINI KALIA
+ANSHU CHOWDHURY
 
 ---
 
