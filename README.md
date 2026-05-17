@@ -56,7 +56,7 @@ NOVA-LEADS/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/nandinikalia69-a11y/NOVA-LEADS.git
+git clone https://github.com/anshu-2007/nova-leads-anshu
 ```
 
 ---
